@@ -10,4 +10,4 @@ print("Hello, world!")
 
 >"This is a quote" - me
 
-** bold writing ** for dramatic effect
+**bold writing** for dramatic effect
